@@ -12,4 +12,5 @@ This code was developed for a college work using Python language and Jupyter pla
 
 ### Passo-a-passo:
 1. Criar um ambiente virtual
-2. `pip install -r requirements.txt`
+2. Ativar ambiente virtual
+3. `pip install -r requirements.txt`
